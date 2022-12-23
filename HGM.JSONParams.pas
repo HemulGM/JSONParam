@@ -1,4 +1,4 @@
-﻿                                 unit HGM.JSONParams;
+﻿unit HGM.JSONParams;
 
 interface
 
@@ -50,7 +50,6 @@ type
 
 var
   DATE_TIME_FORMAT: string = 'DD.MM.YYYY hh:nn';
-
 
 implementation
 
